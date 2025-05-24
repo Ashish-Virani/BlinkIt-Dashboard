@@ -4,10 +4,11 @@
 This project analyzes user purchasing behavior from Blinkit grocery data, focusing on fat-oriented products across various store types and cities. It aims to uncover consumption patterns and customer preferences to support data-driven retail strategies.
 
 ## 🧰 Tech Stack
-- **Power BI** – for data visualization and interactive dashboards  
-- **MySQL** – for data querying and transformation  
-- **Microsoft Excel** – for raw data handling and preparation  
-- **Python (optional)** – for preprocessing and analytics if needed
+- **Power BI Desktop** – for building and publishing reports  
+- **Power Query** – for data transformation and cleaning  
+- **DAX (Data Analysis Expressions)** – for custom metrics and KPIs  
+- **Data Modeling** – for building relationships and star schema  
+- **Microsoft Excel** – for raw data exploration and structuring  
 
 ## 📊 Data Source
 - Dataset: `BlinkIT Grocery Data.xlsx`  
