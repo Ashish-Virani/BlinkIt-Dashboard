@@ -35,4 +35,4 @@ Insights support targeted stocking, promotional strategies, and location-based o
 
 🖼️ Screenshots / Demo
 
-![Dashboard Overview](screenshots/dashboard-overview.png)  
+![Dashboard Overview]([screenshots/dashboard-overview.png](https://github.com/Ashish-Virani/BlinkIt-Dashboard/blob/main/BlinkIt%20Dashboard.png))  
