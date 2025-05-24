@@ -6,7 +6,7 @@ This project analyzes user purchasing behavior from Blinkit grocery data, focusi
 🧰 Tech Stack
 Power BI – For data visualization and interactive dashboards  
 Microsoft Excel– For raw data handling and preparation  
-Power Query** – For data transformation and cleaning  
+Power Query – For data transformation and cleaning  
 DAX (Data Analysis Expressions) – For custom metrics and KPIs  
 Data Modeling– For building relationships and star schema
 
@@ -35,4 +35,4 @@ Insights support targeted stocking, promotional strategies, and location-based o
 
 🖼️ Screenshots / Demo
 
-![Dashboard Overview]([screenshots/dashboard-overview.png](https://github.com/Ashish-Virani/BlinkIt-Dashboard/blob/main/BlinkIt%20Dashboard.png))  
+![Dashboard Overview]([https://github.com/Ashish-Virani/BlinkIt-Dashboard/blob/main/BlinkIt%20Dashboard.png])  
