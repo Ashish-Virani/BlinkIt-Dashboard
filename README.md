@@ -13,6 +13,7 @@ This project analyzes user purchasing behavior from Blinkit grocery data, focusi
 ## 📊 Data Source
 - Dataset: `BlinkIT Grocery Data.xlsx`  
 - Contains purchase records, product types, city-wise data, and store categories (Supermarket Type1, Type2, and Grocery)
+- Dataset from Kaggle
 
 ## ✨ Features & Highlights
 
